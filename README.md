@@ -1,1 +1,5 @@
 # VRProject3
+## Student Duties:
+Evan: Evan is the one that initially got the project up and running. He imported the nature pack that acts as the environment for the project. Evan also created the scripts that added the rock breaking and gathering functionality, and by going off his script Tyler was able to get the tree gathering functionality to work as well. Evan created the axe and pickaxe animations and functionalities too. He also imported the assets that represent the various buildings in the town. Evan also created the scripts that act as the functionality for upgrading the town and displaying the various tiers of the town based upon how many upgrades have taken place. Evan also contributed to the 
+
+Tyler: Tyler went off Evan's script that implemented the rock breaking and gathering and created the tree chopping and gathering functionality for the game. Tyler also made the UI/HUD for the game. As well as the UI, Tyler made the pause functionality and the help menu for the game. Tyler also created the scripts that had to be made in order to manage the pause menu and help menu of the game. 
