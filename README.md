@@ -1,5 +1,7 @@
 # VR Project 3 - Temple Builder
 
+## [Link to Video of Demo](https://www.youtube.com/watch?v=g9XWc5V5olU)
+
 ## Background:
 Our game we are creating is called temple builder. It is a gather/building game implemented In Unity.  The main objective of the game is to collect resources and use these collected resources to upgrade your base. The resources needed for upgrading your base are stone and wood. You spawn with a pickaxe and an axe, and you use these tools to cut down trees and break down boulders found throughout the landscape. The game starts with no buildings in site, and eventually you can upgrade through 3 tiers of changes to have your very own village made by you!
 
