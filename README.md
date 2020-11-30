@@ -9,3 +9,11 @@ Moses: Moses fixed an early issue we had that was messing with some of our chara
 ## Description of Application:
 Our game was built in the Unity environment. It utilizes several different assets and models which will be discussed below.
 
+This screenshot depicts the environment package that we used to set up the landscape. It is titled NatureStarterKit2 and we found it on the Unity asset store.
+
+These screenshots depict our pickaxe and axe assets.
+
+These screenshots show our village assets such as the buildings and props used for the village.
+
+These screenshots depict all of out scripts that we used for the logic of our game.
+
