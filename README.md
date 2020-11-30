@@ -8,12 +8,42 @@ Moses: Moses fixed an early issue we had that was messing with some of our chara
 
 ## Description of Application:
 Our game was built in the Unity environment. It utilizes several different assets and models which will be discussed below.
-
+![Environment](https://raw.githubusercontent.com/Tyler0126/VRProject2/main/Environment.png)
 This screenshot depicts the environment package that we used to set up the landscape. It is titled NatureStarterKit2 and we found it on the Unity asset store.
 
+
+![pickaxe](https://raw.githubusercontent.com/Tyler0126/VRProject2/main/pickaxe.png)
+![axe](https://raw.githubusercontent.com/Tyler0126/VRProject2/main/axe.png)
 These screenshots depict our pickaxe and axe assets.
 
-These screenshots show our village assets such as the buildings and props used for the village.
 
-These screenshots depict all of out scripts that we used for the logic of our game.
+These screenshots show our village assets such as the buildings and props used for the village.
+![tier1buildings](https://raw.githubusercontent.com/Tyler0126/VRProject2/main/tier1buildings.png)
+
+This is the tier 1 building model.
+
+![tier2buildings](https://raw.githubusercontent.com/Tyler0126/VRProject2/main/tier2buildings.png)
+
+This is the tier 2 building model.
+
+![tier3buildings](https://raw.githubusercontent.com/Tyler0126/VRProject2/main/tier3buildings.png)
+
+This is the tier 3 building model.
+
+![well](https://raw.githubusercontent.com/Tyler0126/VRProject2/main/well.png)
+
+This is the well model that appears in tier 1.
+
+![windmill](https://raw.githubusercontent.com/Tyler0126/VRProject2/main/windmill.png)
+
+This is the windmill model that appears during tier 2.
+
+![upgradeStation](https://raw.githubusercontent.com/Tyler0126/VRProject2/main/upgradeStation.png)
+
+This is the upgrade station model.
+
+
+
+This is a link to all of our scripts that we used for the game logic.
+[Link to Scripts](https://github.com/Tyler0126/VRProject2/tree/main/Scripts)
 
